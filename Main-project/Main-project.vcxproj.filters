@@ -18,6 +18,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
+=======
+    <ClCompile Include="file_reader.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+>>>>>>> data
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data.txt" />
@@ -29,5 +35,11 @@
     <ClInclude Include="constants.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+<<<<<<< HEAD
+=======
+    <ClInclude Include="file_reader.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+>>>>>>> data
   </ItemGroup>
 </Project>
